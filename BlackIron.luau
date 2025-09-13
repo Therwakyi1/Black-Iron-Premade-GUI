@@ -1,3 +1,4 @@
+```lua
 --[[ All rights belong to Instance.new and Instance.new members. Do not redistribute this code without our permission.
 This script has only been made for easy script and UI management.
 
@@ -299,3 +300,4 @@ G2L["FullscreenButton_9"].MouseButton1Click:Connect(function()
 end);
 
 return G2L["BlackIron_1"], require;
+```
